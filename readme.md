@@ -1,6 +1,7 @@
 <h1> Courses </h1>
 Author: Taylor McNeil
-This program was created in conjunction with this [tutorial](https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial). The assignment was updated to solidity 0.5.0 and tested using truffle development.
+This program was created in conjunction with this <a href="https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial"> tutorial</a>. 
+The assignment was updated to solidity 0.5.0 and tested using truffle development.
 
 
 <h2> Installation </h2>
