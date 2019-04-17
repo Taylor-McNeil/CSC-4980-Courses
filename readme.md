@@ -1,6 +1,6 @@
 <h1> Courses </h1>
 Author: Taylor McNeil
-
+This program was created in conjunction with this [tutorial](https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial). The assignment was updated to solidity 0.5.0 and tested using truffle development.
 
 
 <h2> Installation </h2>
@@ -15,7 +15,6 @@ Author: Taylor McNeil
 <li> Open the terminal or cmd </li>
 <li> Navigate to where you cloned or downloaded the repository </li>
 <li> Type truffle compile </li>
-   --A list of warnings should come up, everything is fine </li>
 <li>Type truffle develop </li>  
    --Start adding instructors!
    
