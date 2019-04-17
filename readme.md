@@ -16,8 +16,7 @@ This program was created in conjunction with this <a href="https://coursetro.com
 <li> Navigate to where you cloned or downloaded the repository </li>
 <li> Type truffle compile </li>
 <li>Type truffle develop </li>  
-   --Start adding instructors!
- <li> To add an instructor: Courses.deployed().then(function(instance){return instance.setInstructor("Provide an address here", provide an age here, provide the first name, provide the last name);})  
+<li> To add an instructor: Courses.deployed().then(function(instance){return instance.setInstructor("Provide an address here", provide an age here, provide the first name, provide the last name);}) </li>
    
 <h2> Solutions </h2>
 All functions were tested in truffle develop and shown to be working in the screenshot below.
