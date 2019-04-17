@@ -5,9 +5,6 @@ Author: Taylor McNeil
 
 <h2> Installation </h2>
 <ul>
-<li> Install Node.js </li>
-  --You need this to use the npm <br>
-  --Link: https://nodejs.org/en/download/ <br>
  <li> Install Truffle </li> 
   --npm install -g Truffle <br>
    <li> Clone or download the repository </li> 
