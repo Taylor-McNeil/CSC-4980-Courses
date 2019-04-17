@@ -8,7 +8,7 @@ This program was created in conjunction with this <a href="https://coursetro.com
  <li> Install Truffle </li> 
   --npm install -g Truffle <br>
    <li> Clone or download the repository </li> 
-<li> Profit! </li> 
+<li> Profit! :moneybag: </li> 
  </ul>
 
 <h2> :pencil: Usage </h2>
